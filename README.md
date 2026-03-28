@@ -13,7 +13,7 @@
 
 | Format | Link |
 |---|---|
-| HTML (best experience) | [intelligence_at_the_edge_horvat.html](paper/intelligence_at_the_edge_horvat.html) |
+| HTML (best experience) | [intelligence_at_the_edge_horvat.html](docs/intelligence_at_the_edge_horvat.html) |
 | PDF (for download) | [intelligence_at_the_edge_horvat.pdf](paper/intelligence_at_the_edge_horvat.pdf) |
 
 ---
