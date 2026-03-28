@@ -14,7 +14,7 @@
 | Format | Link |
 |---|---|
 | HTML (best experience) | [intelligence_at_the_edge_horvat.html](paper/intelligence_at_the_edge_horvat.html) |
-| PDF (for download) | [arxiv_submission.pdf](paper/arxiv_submission.pdf) |
+| PDF (for download) | [intelligence_at_the_edge_horvat.pdf](paper/intelligence_at_the_edge_horvat.pdf) |
 
 ---
 
