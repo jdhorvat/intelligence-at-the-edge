@@ -13,7 +13,7 @@
 
 | Format | Link |
 |---|---|
-| HTML (best experience) | [index.html](docs/index.html) |
+| HTML (best experience) | [GitHub Pages](https://jdhorvat.github.io/intelligence-at-the-edge/) |
 | PDF (for download) | [intelligence_at_the_edge_horvat.pdf](paper/intelligence_at_the_edge_horvat.pdf) |
 
 ---
