@@ -14,7 +14,14 @@
 | Format | Link |
 |---|---|
 | HTML (best experience) | [GitHub Pages](https://jdhorvat.github.io/intelligence-at-the-edge/) |
-| PDF (for download) | [intelligence_at_the_edge_horvat.pdf](paper/intelligence_at_the_edge_horvat.pdf) |
+| PDF (for download) | [01_intelligence_at_the_edge_horvat.pdf](paper/01_intelligence_at_the_edge_horvat.pdf) |
+| PDF (for download) | [02_fl_distinction.pdf](paper/02_fl_distinction.pdf) |
+| PDF (for download) | [03_intelligence_per_milliwatt.pdf](paper/03_intelligence_per_milliwatt.pdf) |
+| PDF (for download) | [04_hazop_ai_systems.pdf](paper/04_hazop_ai_systems.pdf) |
+| PDF (for download) | [05_ai_pid.pdf](paper/05_ai_pid.pdf) |
+| PDF (for download) | [06_behavioral_observation.pdf](paper/06_behavioral_observation.pdf) |
+
+
 
 ---
 
